@@ -1,0 +1,19 @@
+The command structure of Easy Company is as follows:
+CO: 1st Lt. Thomas Meehan
+XO: 1st Lt. Richard Winters
+First Sergeant: William Evans
+
+An example of a line that is not a property: this line, because it contains more than 2 words before the colon.
+
+1944-06-06
+It is D-Day.
+The landings have begun.
+
+1944-06-07
+No sign of 1st Lt. Thomas Meehan.
+Capt. Richard Winters assumes the role of commanding officer.
+CO: Capt. Richard Winters
+
+1944-06-08
+XO: 1st Lt. Harry Welsh
+First Sergeant: SFC Carwood Lipton
