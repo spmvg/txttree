@@ -1,5 +1,5 @@
 # `txttree`
-`txttree` is a tool for organizing and displaying hierarchical relationships using a file-based structure and text files.
+`txttree` is a command line tool for organizing and displaying hierarchical relationships using a folder-based structure and text files.
 Basically, `txttree` is like `tree` for text files with some added features for interpreting file contents like properties and values.
 
 ## Example
@@ -97,3 +97,11 @@ This file demonstrates three possible line types in a text file:
 
 Text files in a folder will be displayed as separate nodes.
 The only exception is a text file with the same name as the parent folder: these properties are displayed under the parent folder.
+
+## Installation
+Releases are made available on PyPi.
+The recommended installation method is via `pip`:
+
+```
+pip install txttree
+```
